@@ -1,2 +1,5 @@
 # hello-world
-Hello World tutorial for CYBR 8950 lab
+Hi there!
+
+This is Pat, I created this repository for CYBR 8950 to work through learning git and github.
+
